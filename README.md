@@ -10,7 +10,7 @@
 
 ### Получение набора целевых ключей
 #### Клиент вводит команду "GET KEY <ID клиента из списка подключенных клиентов>"
-![App Screenshot]((https://github.com/EgorShatsky/istoq/blob/main/pic/get_key.jpeg)) 
+![App Screenshot](https://github.com/EgorShatsky/istoq/blob/main/pic/get_key.jpeg)
 
 #### Результатом является получение идентичного набора криптографических ключей
 #### Целевой ДПУ клиент №1
