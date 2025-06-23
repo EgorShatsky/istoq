@@ -17,7 +17,7 @@
 ![App Screenshot](https://github.com/EgorShatsky/istoq/blob/main/pic/client_log_key_1.jpeg)
 
 #### Целевой ДПУ клиент №2
-![App Screenshot](https://github.com/EgorShatsky/istoq/blob/main/pic/client_log_key_2.png)
+![App Screenshot](https://github.com/EgorShatsky/istoq/blob/main/pic/key_2.jpeg)
 
 ### Отключение от сервера
 #### Клиент вводит команду "STOP"
